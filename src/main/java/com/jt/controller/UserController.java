@@ -30,4 +30,5 @@ public class UserController {
 		int deleteObject = userService.deleteObject(id);
 		return deleteObject;
 	}
+	
 }
